@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center; 
+}
+.button{
+    margin: 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 10%;
+    border-color: black;
+    box-shadow: 8px;
+    font-size: 2rem;
+    color: rgba(13, 12, 12, 0.896);
+    background-color: rgb(243, 173, 9);
+}
+.button:hover{
+    cursor: pointer;
+    background-color: rgba(243, 173, 9, 0.759);
+}
+.input{
+    width: 35vh;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 2rem;
+    text-decoration: solid;
+    border-radius: 10px;
+}
+.heading{
+   font-size: 5vh;
+}
+.b{
+    background-color: green;
+    
+}
